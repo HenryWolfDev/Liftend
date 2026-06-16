@@ -1,2 +1,0 @@
-# Liftend
-Workout Tracking App
